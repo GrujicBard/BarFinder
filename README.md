@@ -1,4 +1,4 @@
-# BarFInder
+# BarFinder
 The BarFinder app is a web-based platform designed to help users find bars with the lowest drink prices in town. This project consists of two main components: a frontend built with Ionic Vue and a backend developed using Express.js, with data management handled by Knex.js. 
 Key Features:
 * Location-Based Search: Seamlessly search for bars based on your current location or specify a specific area to find the best drink deals near you.
